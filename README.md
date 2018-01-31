@@ -18,4 +18,4 @@ Add `extends: thofmann` to your local `.eslintrc` configuration file.
 npm install eslint-config-thofmann eslint --save-dev
 ```
 
-Add `extends: thofmann` to your local `.eslintrc` configuration file for an ES6+ environment.
+Add `extends: thofmann/es5` to your local `.eslintrc` configuration file.
