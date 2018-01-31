@@ -1,0 +1,6 @@
+{
+  "extends": "./es5.js",
+  "env": {
+    "node": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-thofmann",
+  "version": "1.0.0-alpha.1",
+  "description": "Some of Trevin Hofmann's preferred ESLint configurations",
+  "keywords": [
+    "eslint",
+    "config",
+    "thofmann",
+    "trevin",
+    "hofmann",
+    "lint",
+    "eslintconfig"
+  ],
+  "bugs": "https://github.com/thofmann/eslint-config-thofmann/issues",
+  "homepage": "https://github.com/thofmann/eslint-config-thofmann",
+  "license": "Unlicense",
+  "author": "Trevin Hofmann <trevinhofmann@gmail.com> (http://trevinhofmann.com)",
+  "main": "index.js",
+  "repository": "thofmann/eslint-config-thofmann",
+  "peerDependencies": {
+    "eslint": "^4.16.0",
+    "babel-eslint": "^8.2.1"
+  }
+}
