@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-thofmann",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Some of Trevin Hofmann's preferred ESLint configurations",
   "keywords": [
     "eslint",
